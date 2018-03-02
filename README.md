@@ -1,2 +1,1 @@
-# gitStudy
-for git study
+master
